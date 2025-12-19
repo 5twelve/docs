@@ -2,3 +2,4 @@ mkdocs-material==8.1.9
 mkdocs-awesome-pages-plugin==2.6.1
 importlib-metadata==4.10.1
 gitpython==3.1.41
+pymdown-extensions>=10.16.1 # not directly required, pinned by Snyk to avoid a vulnerability
